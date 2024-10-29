@@ -1,6 +1,7 @@
 # Skin Lesion Segmentation and Classification  
 ### Matthieu Kaeppelin, Télécom 2024  
-   
+
+### You can have access to a detailed and illustrated report in the final_report.ipynb notebook !
 ---  
    
 ## Table of Contents  
